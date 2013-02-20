@@ -2,7 +2,7 @@
 
 ## NEXT
 
-  *
+  * Add a new command `ey timeout-deploy` which will mark stuck deploys as canceled.
 
 ## v2.0.11 (2013-02-12)
 
